@@ -1,0 +1,4 @@
+export const SET_INGREDIENTS = 'SET_INGREDIENTS';
+export const SET_RECIPES = 'SET_RECIPES';
+export const SET_SELECTED_RECIPE = 'SET_SELECTED_RECIPE';
+export const SET_ERROR = 'SET_ERROR';
